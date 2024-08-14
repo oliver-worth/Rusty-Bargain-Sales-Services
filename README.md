@@ -8,6 +8,8 @@ Rusty Bargain, a used car sales service, is developing a mobile app to help cust
 - Speed of Prediction: Ensure that the model's predictions are generated quickly to enhance user experience.
 - Training Time: Optimize the training process to minimize time without compromising the model's accuracy.
 
+This projects goal was to come up with an application for car sales services that can quickly figure out what the market value of a car will be based on certain data using Numerical Methods such as Gradient Boosting. I tested multiple machine learning models as well as used gradient boosting models in order to minimize my loss function as much as possible.
+
 ## Data Description
 The dataset contains various features related to cars, including:
 
