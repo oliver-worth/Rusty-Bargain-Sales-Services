@@ -1,4 +1,5 @@
 # Rusty Bargain Car Price Prediction
+![Car Sales](carsales.png)
 ## Project Overview
 Rusty Bargain, a used car sales service, is developing a mobile app to help customers quickly estimate the market value of their cars. This project involves building a machine learning model that accurately predicts car prices based on historical data, including technical specifications, trim versions, and other relevant features. The model must balance quality, speed of prediction, and training time, making it a critical component for the app's success.
 
